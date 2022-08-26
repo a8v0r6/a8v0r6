@@ -1,6 +1,9 @@
 - 👋 Hi, I’m Harsh Singh
-- 👀 I’m interested in Software development 
+- 👀 I’m a Software development 
 - 📫 How to reach me?
+     harshsingh9820@gmail.com
+     
+
 
 <!---
 a8v0r6/a8v0r6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
