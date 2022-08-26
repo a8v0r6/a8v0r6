@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harsh Singh
-- 👀 I’m a Software development 
+- 👀 I’m a Software developer
 - 📫 How to reach me?
      harshsingh9820@gmail.com
      
